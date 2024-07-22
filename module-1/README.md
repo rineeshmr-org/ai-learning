@@ -1,4 +1,4 @@
-# Module 1 - Fundamentals
+# Module 1 - Fundamentals:
 
 Although this is a Generative AI course, we will need some basic skills to get started.
 
